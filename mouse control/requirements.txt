@@ -1,5 +1,4 @@
 opencv-python
 python-time
-ctypes-callable
-comtypes
-pycaw
+mediapipe
+autopy
